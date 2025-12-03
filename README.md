@@ -10,7 +10,7 @@ I made this project as part of the Blueprint YSWS for the Hack Club organization
 
 **PCB/Schematic: **\
 <img width="321" height="623" alt="PCB" src="https://github.com/user-attachments/assets/c6f215a0-529b-488a-8e1b-e30b7efaad37" /> \
-[SCHEMATIC.pdf](https://github.com/user-attachments/files/23898204/SCHEMATIC.pdf) \
+[SCHEMATIC.pdf](https://github.com/user-attachments/files/23898204/SCHEMATIC.pdf)
 
 **BOM: **\
 <img width="983" height="150" alt="BOM" src="https://github.com/user-attachments/assets/83a7e10e-0b0b-4058-acd2-2f29f810a8a2" /> \
